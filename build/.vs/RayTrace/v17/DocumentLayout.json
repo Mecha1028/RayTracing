@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\RayTracing\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\src\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EAFCD3-DDE3-3DE2-844C-A168D679BF66}|RayTrace.vcxproj|C:\\temp\\RayTracing\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\RayTracing\\src\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\RayTracing\\src\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\RayTracing\\src\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\RayTracing\\build\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\vec3.h",
+              "RelativeDocumentMoniker": "..\\src\\vec3.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\vec3.h",
+              "RelativeToolTip": "..\\src\\vec3.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:39:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\camera.h",
+              "RelativeDocumentMoniker": "..\\src\\camera.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\camera.h",
+              "RelativeToolTip": "..\\src\\camera.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:22:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "interval.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\interval.h",
+              "RelativeDocumentMoniker": "..\\src\\interval.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\interval.h",
+              "RelativeToolTip": "..\\src\\interval.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:20:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\temp\\RayTracing\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-16T13:16:01.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sphere.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\sphere.h",
+              "RelativeDocumentMoniker": "..\\src\\sphere.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\sphere.h",
+              "RelativeToolTip": "..\\src\\sphere.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:13:07.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\hittable_list.h",
+              "RelativeDocumentMoniker": "..\\src\\hittable_list.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\hittable_list.h",
+              "RelativeToolTip": "..\\src\\hittable_list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:11:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hittable.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\hittable.h",
+              "RelativeDocumentMoniker": "..\\src\\hittable.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\hittable.h",
+              "RelativeToolTip": "..\\src\\hittable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:10:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rtweekend.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\rtweekend.h",
+              "RelativeDocumentMoniker": "..\\src\\rtweekend.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\rtweekend.h",
+              "RelativeToolTip": "..\\src\\rtweekend.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:09:54.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "interval.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\build\\interval.h",
+              "RelativeDocumentMoniker": "interval.h",
+              "ToolTip": "C:\\temp\\RayTracing\\build\\interval.h",
+              "RelativeToolTip": "interval.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:09:46.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "color.h",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\color.h",
+              "RelativeDocumentMoniker": "..\\src\\color.h",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\color.h",
+              "RelativeToolTip": "..\\src\\color.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T13:05:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\temp\\RayTracing\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "C:\\temp\\RayTracing\\src\\main.cpp",
+              "RelativeToolTip": "..\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T13:01:28.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿  Building Custom Rule C:/temp/RayTracing/CMakeLists.txt
+  main.cpp
+C:\temp\RayTracing\src\color.h(8,15): error C2187: syntax error: 'vec3' was unexpected here
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(10,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(10,48): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(11,14): error C2065: 'pixel_color': undeclared identifier
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(12,14): error C2065: 'pixel_color': undeclared identifier
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(13,14): error C2065: 'pixel_color': undeclared identifier
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(16,31): error C3536: 'r': cannot be used before it is initialized
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(17,31): error C3536: 'g': cannot be used before it is initialized
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\color.h(18,31): error C3536: 'b': cannot be used before it is initialized
+  (compiling source file '../src/main.cpp')
+  
+C:\temp\RayTracing\src\main.cpp(30,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\temp\RayTracing\src\main.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'ray_color'
+C:\temp\RayTracing\src\main.cpp(30,54): error C2143: syntax error: missing ';' before '{'
+C:\temp\RayTracing\src\main.cpp(30,54): error C2447: '{': missing function header (old-style formal list?)
+C:\temp\RayTracing\src\main.cpp(112,19): error C2146: syntax error: missing ';' before identifier 'pixel_color'
+C:\temp\RayTracing\src\main.cpp(112,19): error C2065: 'pixel_color': undeclared identifier
+C:\temp\RayTracing\src\main.cpp(112,33): error C3861: 'ray_color': identifier not found
+C:\temp\RayTracing\src\main.cpp(116,36): error C2065: 'pixel_color': undeclared identifier
