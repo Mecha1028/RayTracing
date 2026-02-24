@@ -1,12 +1,16 @@
 #ifndef HITTABLE_H
 #define HITTABLE_H
 
-//#include "ray.h"
+#include <memory>
+#include "ray.h"
+
+class material;
 
 class hit_record {
 public:
     point3 p;
     vec3 normal;
+    std::shared_ptr<material> mat;
     double t;
 
     // if the intersected face orients to the viewer

@@ -1,8 +1,10 @@
 #ifndef VEC3_H
 #define VEC3_H
 
-//#include <cmath>
-//#include <iostream>
+#include "rtweekend.h"   // provides random_double() and other utilities
+
+#include <cmath>
+#include <iostream>
 
 class vec3 {
 public:
@@ -43,6 +45,12 @@ public:
 
     double length_squared() const {
         return e[0] * e[0] + e[1] * e[1] + e[2] * e[2];
+    }
+
+    bool near_zero() const {
+        // Return true if the vector is close to zero in all dimensions.
+        auto s = 1e-8;
+        return (std::fabs(e[0]) < s) && (std::fabs(e[1]) < s) && (std::fabs(e[2]) < s);
     }
 
     static vec3 random() {
@@ -112,4 +120,9 @@ inline vec3 random_unit_vector() {
             return p / sqrt(lensq);
     }
 }
+
+inline vec3 reflect(const vec3& v, const vec3& n) {
+    return v - 2 * dot(v, n) * n;
+}
+
 #endif
