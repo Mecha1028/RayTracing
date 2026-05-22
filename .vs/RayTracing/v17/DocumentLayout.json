@@ -7,32 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\temp\\RayTracing\\src\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "rtweekend.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\rtweekend.h",
-              "RelativeDocumentMoniker": "src\\rtweekend.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\rtweekend.h",
-              "RelativeToolTip": "src\\rtweekend.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:50:28.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "E:\\temp\\RayTracing\\CMakeLists.txt",
-              "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-24T15:36:11.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "camera.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\camera.h",
-              "RelativeDocumentMoniker": "src\\camera.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\camera.h",
-              "RelativeToolTip": "src\\camera.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAADwv2QAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:42:24.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "vec3.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\vec3.h",
-              "RelativeDocumentMoniker": "src\\vec3.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\vec3.h",
-              "RelativeToolTip": "src\\vec3.h",
-              "ViewState": "AgIAAGoAAAAAAAAAAADwv38AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:38:36.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "sphere.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\sphere.h",
-              "RelativeDocumentMoniker": "src\\sphere.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\sphere.h",
-              "RelativeToolTip": "src\\sphere.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:37:10.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "hittable.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\hittable.h",
-              "RelativeDocumentMoniker": "src\\hittable.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\hittable.h",
-              "RelativeToolTip": "src\\hittable.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvyYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:36:32.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "material.h",
-              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\material.h",
-              "RelativeDocumentMoniker": "src\\material.h",
-              "ToolTip": "E:\\temp\\RayTracing\\src\\material.h",
-              "RelativeToolTip": "src\\material.h",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwD0AAAAGAAAAAAAAAA==",
+              "Title": "triangle.h",
+              "DocumentMoniker": "E:\\temp\\RayTracing\\src\\triangle.h",
+              "RelativeDocumentMoniker": "src\\triangle.h",
+              "ToolTip": "E:\\temp\\RayTracing\\src\\triangle.h",
+              "RelativeToolTip": "src\\triangle.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-24T15:36:11.795Z",
+              "WhenOpened": "2026-05-22T14:53:04.459Z",
               "EditorCaption": ""
             },
             {
@@ -147,9 +45,9 @@
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "E:\\temp\\RayTracing\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-16T12:35:00.335Z",
+              "WhenOpened": "2026-05-22T14:53:01.921Z",
               "EditorCaption": ""
             }
           ]

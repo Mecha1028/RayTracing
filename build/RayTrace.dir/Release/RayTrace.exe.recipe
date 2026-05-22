@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\temp\RayTracing\build\x64\release\ZERO_CHECK</FullPath>
+      <FullPath>E:\temp\RayTracing\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
       <FullPath>E:\temp\RayTracing\build\Release\RayTrace.exe</FullPath>

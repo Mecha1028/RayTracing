@@ -7,8 +7,10 @@
   },
   "ExpandedNodes": [
     "",
+    "\\build",
+    "\\build\\Release",
     "\\src"
   ],
-  "SelectedNode": "\\src\\main.cpp",
+  "SelectedNode": "\\src\\triangle.h",
   "PreviewInSolutionExplorer": false
 }

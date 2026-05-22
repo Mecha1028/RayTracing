@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="E:\temp\RayTracing\src\main.cpp">
       <Filter>Source Files</Filter>
@@ -7,6 +7,21 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="E:\temp\RayTracing\src\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\temp\RayTracing\src\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\temp\RayTracing\src\point_light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\temp\RayTracing\src\triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\temp\RayTracing\src\bvh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\temp\RayTracing\src\dielectric.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
